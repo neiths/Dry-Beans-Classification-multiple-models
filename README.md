@@ -2,7 +2,7 @@
 
 ### All information about dataset in notebook.
 
-### Purpose of this project is dry beans classification using multiple machine learning model.
+### Purpose of this project is dry beans classification using multiple machine learning models.
 
 ### What did i do in this notebook.
 1. Import needed libraries
